@@ -13,10 +13,18 @@ git config --list to get the details of the user who is accessing that.
 git remote add origin to connect to the git hub and git.
 to check the connection in that we use git remote -v.
 
-working area       (git add)       staging area       (git commit)      local stage
-                  ------------>                      ------------->
+working area       (git add)       staging area     (git commit)      local stage.
+
+         ------------>                      ------------->
+                  
 its untrac file                    tracked file
 
 to checks the logs in taht we use the (git logs/ git show)
 
+Git branching strategy consist of 4 main branch
+1) Git-Flow 
+2) GitHub-Flow
+3) GitLab-Flow
+4) Trunk Based Development
 
+Diffrent layers of branches
