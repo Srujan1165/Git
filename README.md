@@ -26,5 +26,3 @@ Git branching strategy consist of 4 main branch
 2) GitHub-Flow (master, feature branch)
 4) GitLab-Flow (production, pre-production, master, feature)
 5) Trunk Based Development (master, release branch)
-
-Diffrent layers of branches
