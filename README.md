@@ -22,9 +22,9 @@ its untrac file                    tracked file
 to checks the logs in taht we use the (git logs/ git show)
 
 Git branching strategy consist of 4 main branch
-1) Git-Flow 
-2) GitHub-Flow
-3) GitLab-Flow
-4) Trunk Based Development
+1) Git-Flow (Feature, devops, release, hot fixes, master)
+2) GitHub-Flow (master, feature branch)
+4) GitLab-Flow (production, pre-production, master, feature)
+5) Trunk Based Development (master, release branch)
 
 Diffrent layers of branches
